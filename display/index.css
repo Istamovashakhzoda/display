@@ -1,0 +1,64 @@
+.cointener {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.sahifa {
+  margin: 30px;
+  color: rgb(28, 80, 82);
+}
+
+.box {
+  width: 330px;
+  height: 280px;
+  background-color: blue;
+  color: white;
+  padding: 50px;
+  line-height: 300px;
+  border-radius: 20px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 100px;
+}
+
+.box-2 {
+  width: 400px;
+  height: 280px;
+  background-color: orangered;
+  color: white;
+  padding: 50px;
+  line-height: 300px;
+  border-radius: 20px;
+  float: right;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+
+.text {
+  line-height: 40px;
+  margin-top: 100px;
+}
+
+p {
+  line-height: 40px;
+}
+
+.clear {
+  clear: both;
+}
+
+.box-3 {
+  width: 280px;
+  height: 350px;
+  background-color: blue;
+  border-radius: 10px;
+  float: left;
+  margin-right: 20px;
+}
+
+.middle-box {
+  float: left;
+  width: 800px;
+  margin: 20px;
+}
